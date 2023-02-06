@@ -7,3 +7,6 @@ Bringing an update to what I have been doing so far.
 - Using Blueprints and MethodViews, meaning the HTTP methods are being worked on separate classes on its own.
 - Integrating Marshmallow framework for validation (check Marshmallow documentation for further info), as well as writing schemas.
 - Decorating HTTP methods responses using Flask-Smorest.
+
+
+**unfortunately it is pretty hard for flask to deal with better project management using SOLID concepts, but it will be done in the future.**
